@@ -5,3 +5,4 @@ yt playlist link https://youtube.com/playlist?list=PLsXDmrmFV_AT6I9knFlpzP61_app
 
 1. Stack: Learned to Stack page.
 2. Routing/Navigation: Add navigation, folder routes, _layout, +not-found, (tabs)
+3. Images: Added image
